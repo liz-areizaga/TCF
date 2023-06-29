@@ -1,4 +1,6 @@
 # Temperature Controlled Fan
+[Video Demonstration](https://www.youtube.com/watch?v=FI2EM3a685w)
+
 ## Purpose:
 The purpose of this temperature controlled fan is to keep an object or area at a cool temperature. On a larger scale this could be used to maintain the temperature of a medium size room to a desirable temperature. For example an automatic ceiling fan. On a smaller scale this could be used to keep the temperature of an electronic object at a safe temperature by cooling it down when it starts to heat. Another application for this project is a handheld device for personal use when it is hot. You could clip it to your baby stroller to keep a baby cool,  clip it on your car mirror to keep you cool, etc. 
 ## Functionality:
